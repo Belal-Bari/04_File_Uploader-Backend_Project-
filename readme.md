@@ -21,7 +21,7 @@ A simple web application built with **Express.js**, **EJS**, and **Prisma ORM** 
 - **Node.js** and **Express.js** - backend framework  
 - **EJS** - templating engine for rendering dynamic views  
 - **Prisma ORM** - database ORM for managing data  
-- **SQLite/PostgreSQL/MySQL** (choose your DB) - database  
+- **PostgreSQL** (choose your DB) - database  
 - **Multer** - middleware for handling file uploads  
 - **CSS** - styling the frontend UI  
 
@@ -32,7 +32,7 @@ A simple web application built with **Express.js**, **EJS**, and **Prisma ORM** 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/en/download/) (v14 or higher recommended)
-- A relational database supported by Prisma (SQLite used by default for quick setup)
+- A relational database supported by Prisma (PostgreSQL used by default for quick setup)
 - npm or yarn package manager
 
 ### Installation
