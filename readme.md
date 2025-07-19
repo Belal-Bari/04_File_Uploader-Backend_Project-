@@ -21,7 +21,7 @@ A simple web application built with **Express.js**, **EJS**, and **Prisma ORM** 
 - **Node.js** and **Express.js** - backend framework  
 - **EJS** - templating engine for rendering dynamic views  
 - **Prisma ORM** - database ORM for managing data  
-- **PostgreSQL** (choose your DB) - database  
+- **PostgreSQL** - database  
 - **Multer** - middleware for handling file uploads  
 - **CSS** - styling the frontend UI  
 
