@@ -59,14 +59,14 @@ A simple web application built with **Express.js**, **EJS**, and **Prisma ORM** 
 6. Open your browser at http://localhost:3000
 
 ## Project Structure
-├── db/                     # Database and Prisma related files
-├── routes/                 # Express route handlers
-├── views/                  # EJS templates for frontend UI
-├── public/                 # Static files (CSS, JS, images)
-├── uploads/                # Folder for uploaded files
-├── app.js                  # Main Express app entry point
-├── package.json            # Project dependencies and scripts
-└── README.md               # 
+├── db/                     # Database and Prisma related files</br>
+├── routes/                 # Express route handlers</br>
+├── views/                  # EJS templates for frontend UI</br>
+├── public/                 # Static files (CSS, JS, images)</br>
+├── uploads/                # Folder for uploaded files</br>
+├── app.js                  # Main Express app entry point</br>
+├── package.json            # Project dependencies and scripts</br>
+└── README.md               # </br>
 
 ## Usage
 Sign up or sign in to create an account
@@ -82,6 +82,6 @@ Rename folders when necessary
 Use confirmation dialogs to avoid accidental deletion
 
 ## Contact
-Created by Belal Bari - feel free to reach out!
-Email: tanvirj9@gmail.com
+Created by Belal Bari - feel free to reach out!</br>
+Email: tanvirj9@gmail.com</br>
 GitHub: Belal-Bari
