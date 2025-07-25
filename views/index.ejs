@@ -72,12 +72,15 @@
             font-style: italic;
         }
         .sign-in {
-            border: 1px solid #007BFF;
+            
             border-radius: 5px;
             font-size: xx-large;
-            background-color: #eda411;
-            color:#f4f4f4;
+            background-color: #28a745;
+            color:white;
             box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+        }
+        .sign-in-a {
+            color:white;
         }
     </style>
 </head>
@@ -130,7 +133,7 @@
             <p>No files or folders yet.</p>
         <% } %>
     <% } else { %>
-        <span class="sign-in"><a href="/sign-in">Sign in</a></span>
+        <span class="sign-in"><a class="sign-in-a" href="/sign-in">Sign in</a></span>
     <% } %>
 </body>
 </html>
